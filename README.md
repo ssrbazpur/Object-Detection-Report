@@ -1,4 +1,3 @@
 # Object-Detection-Report
-<html>
-<iframe src="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" width="100%" height="500px">
-  </html>
+
+## Check out at <a href="https://ssrbazpur.github.io/Object-Detection-Report/."> here</a>
